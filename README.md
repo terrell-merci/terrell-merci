@@ -1,6 +1,6 @@
 ### Hi there, I'm Terrell Finklea! 👋
 
-- 🔭 I’m currently working on Docket SMS ([Github](https://github.com/terrell-merci/docket-sms-demo/edit/main/README.md))
+- 🔭 I’m currently working on Docket TMSL ([Github](https://github.com/terrell-merci/docket-sms-demo/edit/main/README.md))
 ![GitHub Logo](https://i.ibb.co/bHYM4Hj/On-Paste-20210824-112644.png)
 Format: ![Alt Text](url)
 - 🌱 I’m currently learning frontend javascript libraries (such as Vue JS)
