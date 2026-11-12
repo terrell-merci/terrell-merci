@@ -1,6 +1,3 @@
 ### Hi there, I'm Terrell Finklea! 👋
 
-- 🔭 I’m currently working on Docket TMSL (Github demo [here](https://github.com/terrell-merci/docket-sms-demo))
-![GitHub Logo](https://i.ibb.co/bHYM4Hj/On-Paste-20210824-112644.png)
-- 🌱 I’m currently learning frontend javascript libraries (such as Vue JS)
-- 👯 I’m looking to collaborate on interesting PHP and JavaScript projects
+Senior Full-Stack Engineer with a proven track record bridging modern TypeScript/React interfaces with scalable backend microservices (Python, Ruby on Rails). Demonstrated expertise optimizing web platform performance, architecting WCAG-compliant component systems, and deploying enterprise applications on AWS and Azure. Skilled in partnering directly with cross-functional teams to design high-reliability REST APIs, data pipelines, and production-grade software.
